@@ -1,5 +1,501 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is pointing at the student."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "c5132cb8-e856-4547-899e-cbe5fc26c345"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Acting out the emotions in which the student should convey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "2f8bd011-a40e-473c-b51d-aed580d18c46"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When talking about a broad theme like Christianity, she makes a rainbow motion with her hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesticulating",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "40cf2c65-e1ce-42e2-874e-bdeda7c5728d"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use push and air motions once again to emphasize her points."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesticulating",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "123ff684-63a5-4e33-a188-4f6441819aa0"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She makes circular motions as if to say from me to you and also does so in a manner that creates rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures In Rhythm"
+        }
+      ],
+      "uuid": "d567702a-8174-4ef1-b345-9c5a87375fcf"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't know who you're talking to as she uses her hand motions to point to the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Come Hither Motion",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "3ed724ab-f7c8-46cf-a366-485912a8a010"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where is my partner!! She is using her body to express the emotions that she wants her students to convey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "4409b3f4-4926-4606-8104-dcec5b1768f2"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a lot of aggressive hand gestures in this moment. She is using her arms as a way to create a point, to allow there to be a sense of rhythm that is created and as a way for her to find her thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "f1e5093f-2548-4b7d-bbd9-9bc1ed02e84d"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repeats, \"where am I, is that you\" twice in two very different ways then says there will not be you. Does this as a way to provide an example to the class."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "e9dee66c-335f-4367-809f-743181c918e9"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students are laughing and she has one hand over her heart and the other shaking in the air. She twitches violently as a way to be funny."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "0449a829-3ca2-4013-b2ac-8e6ecfa85ae8"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is making clawed, beat motions with her hands as a means to relate to the student and get him to perform the way that she wants him to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "108dd030-38e4-42f8-9ff0-c86f14791070"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is twitching in anger as she talks about the student's performance being boring. She uses her body as a way to convey her dissatisfaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "54ee4b34-4b70-4f6a-9356-f00566321551"
+    },
+    {
+      "start_time": 4,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For generations while making a circular motion with her body."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Come hither motion"
+        }
+      ],
+      "uuid": "86da9654-4d2d-4c7f-b1e8-7a0774b5d105"
+    },
+    {
+      "start_time": 4,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your thinking is poor and more usage of her arms and her body to really make a point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "b8d6eb01-d968-401f-ba64-d8c624c8d980"
+    },
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lots of motion, lots of acting! She acts it out so that her student completely understands what she wants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "0ceb3c6f-8e61-4f97-8951-86959c995b22"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is that insanity. Tell me! She acts it out, her students laugh. She wants them to truly understand what she is trying to say. She repeats it back to the original student and her gestures are getting bolder. It's almost as if she wants her student to feel the desperation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "c0f5c9b6-96ac-4b72-84c5-87eb1627e51f"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't you know that only you know. Lots of circular motions, trying to really make a point to her student."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "6cc4273e-d73d-470b-9914-9dececd2d6fe"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only you lie! As she continues to point at the student in a repeated motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "77608e98-ec00-4f7e-a087-2793cee382be"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lie!!! She screams as her hands shake, quite literally vibrating."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "4a10a7a4-c8c4-4f12-88dd-8684d844a71f"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone look at me while I lie and then she opens her arms out. A grand gesture to convey her feelings. She often uses her body as a vehicle of emotions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "3d7e9a59-c974-4a60-ba56-3fec50b7305d"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you want SO much to be seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Come Hither Motion",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "6bcd2392-4f5d-4431-a4a7-361689311a08"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Watch me. She repeats those words three different times with her progressively getting louder as she does so. And she is using her arms to really emphasize her point. The gestures get bigger and bigger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "0cec0a1b-2edd-4114-b463-4aff962d25e6"
+    },
+    {
+      "start_time": 7,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in doing, you talk. Out of doing you talk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Come Hither Motion",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "db724aab-f1a8-416e-bde8-2bde0841f680"
+    }
+  ],
   "set": "Default",
   "event_id": "612db4c6-dbbf-435d-b7aa-31ace0d5a0b6",
   "source_id": "903cf3c8-9510-4329-b39d-69f1e83df25f"
