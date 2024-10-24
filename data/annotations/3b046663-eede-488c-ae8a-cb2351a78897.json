@@ -1,5 +1,814 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Motif of \"size\" and possible point about religion"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Size",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Religion",
+          "category": "Theory and Analysis"
+        }
+      ],
+      "uuid": "1ce10be2-ea47-4e63-8ced-058a01cc1239"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Script Analysis and character analysis, character background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "f9bd0ec0-c12b-451c-9ac7-2b6010788b74"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Takes moment to read over script then make points/draw conclusions about character"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "5966a59e-e246-4301-bd05-8e95cda7bce4"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talks about physicality and its relation to masculinity and specific masculinities (poet, artist, etc.)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Masculinity",
+          "category": "Cultural and National Context"
+        }
+      ],
+      "uuid": "696932ca-bb2e-49bd-bf9d-231fb80d2ae8"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More character analysis with focus on scripted behavior"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "ae279ffc-c329-47f3-8d97-ea1adcc242a3"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More focus on physical aspects of character"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        }
+      ],
+      "uuid": "5e437e41-8385-4739-a886-fd757fa475cf"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Advice to \"write down the physicality of each character\" while watching plays if physicality not in the script"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        }
+      ],
+      "uuid": "fd315326-d24e-41ac-99de-18aa5d00ce17"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once again emphasis on size/masculinity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Size",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Masculinity",
+          "category": "Cultural and National Context"
+        }
+      ],
+      "uuid": "c6168128-fb3e-4694-ae3f-74fce2d26e6a"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Class aspect in relation to size/masculinity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "4eb381a7-c445-4fcd-8a88-d630aa7401a7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler gives her interpretation of the character of Morell in George Bernard Shaw's Candida, sourcing his motivation not to religious enlightenment but to wanting to be a star who has \"found his gimmick.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "de3ca5a9-3a8f-4125-a3d7-f1e76c9df756"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler personalizes Morell's character by positioning herself as the character, \"If I'm going to give you the blessings of the lord it's great.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "8fbc706a-bcd0-429b-8208-ec23b637176f"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler does an Act-out of March Banks's character"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "dd1a6f26-4be9-4af5-9c39-464c16581286"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler describes Shaw's dramatic mode as not leaving anyone \"out in the cold\" and acts out the meaning of this for her students'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "George Bernard Shaw"
+        }
+      ],
+      "uuid": "8b815aa1-0474-4bbe-85dc-c53f80b29cc5"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler advises students to add in physical characteristics of character themselves if the play does not tell them. She authoritatively tells them to write down the physical characteristics of each character and that Shaw teaches them that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "George Bernard Shaw"
+        }
+      ],
+      "uuid": "9ae535de-0784-4412-be45-a8deb0d9873e"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler asks students if she's being clear"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clarifying Question"
+        }
+      ],
+      "uuid": "d6386875-19c8-4490-be80-73f176342643"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now you see that in the play as she is shaking her pointer finger"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "95f2f991-0071-443c-89ea-179c770256f3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm here to talk about God. When she says God, she lifts her hand above her head, as a way to reference him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "54186ffd-4e79-4256-9ecc-85b1b055bb54"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doesn't like that. She shakes her head no as she says that and she repeats it a few more times and does the same gesture"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Head Shake"
+        }
+      ],
+      "uuid": "b393f98d-cd23-44e4-ad21-3a414ac7fc17"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She moves her head in specific directions as a means to convey and almost lead the conversation with her body"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "db6bd4fb-7938-442c-a3cb-9feabb93c7a5"
+    },
+    {
+      "start_time": 42,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whenever she talks louder, she shakes her hands more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures Mirror Words",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "0f161f67-b928-4309-bfd9-7137238c5a1f"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I'm going to and then tilts her head back and shakes her head."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Head Shake"
+        }
+      ],
+      "uuid": "e5284288-7278-4938-b7f7-81027ff1e87f"
+    },
+    {
+      "start_time": 54,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once again when referencing God (this time \"Lord\"), she raises her hand up above her head and looks up at it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "70ea2f9e-db1f-4276-bed0-8e4fc5ffcfa7"
+    },
+    {
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Shaw is on to him. She peers up at the audience with her eyes, almost mischievously"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gaze"
+        }
+      ],
+      "uuid": "02dedd9a-4b43-46bf-8e48-083daae22154"
+    },
+    {
+      "start_time": 67,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now and then pauses with a Claw Hand motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Claw Hand",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "dcf96f0d-89eb-44f1-9b83-ff3f6f36daf4"
+    },
+    {
+      "start_time": 70,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creating a character like and then claw open, claw close multiple times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Claw Hand",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "a281af82-80c7-443c-a0bd-2780b29e2709"
+    },
+    {
+      "start_time": 73,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is acting it out with her body. She is hunched, then open, then little."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "940b2945-9161-4279-a503-ec01b14aaa29"
+    },
+    {
+      "start_time": 87,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Become some type of man and she is making circular gestures with her hands while clenching and opening her hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Circular Gesture"
+        }
+      ],
+      "uuid": "7cd1d7b9-2027-4c93-a186-7b49cf8136cb"
+    },
+    {
+      "start_time": 96,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sways side to side as she is trying to find the words"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Swaying"
+        }
+      ],
+      "uuid": "dc7ede2c-2c16-4283-b23d-4503fe621211"
+    },
+    {
+      "start_time": 100,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Major jerk at the word \"behavior.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures Mirror Words",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "502471c9-6915-4e5c-8d58-eddc9bbe78a2"
+    },
+    {
+      "start_time": 105,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finger up and pointing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "6e475b0e-aa51-4cfa-8356-e0171329b895"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He goes into the back. She takes her arms and through a large circular motion, puts her hands behind her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Circular Gesture"
+        }
+      ],
+      "uuid": "af8e5594-5254-4be4-910f-7413c13b7d02"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He shrivels up and sits this way. She acts this entire sequence out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "066030f9-8e19-4d56-b803-2b270be09a34"
+    },
+    {
+      "start_time": 117,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is gesticulating each beat of what she is saying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "06b4c74b-e63f-4e64-b149-fc7435c2f55e"
+    },
+    {
+      "start_time": 124,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More aggressive pointing with the rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "062d1e47-1c74-43a5-87d7-0a1b478dc761"
+    },
+    {
+      "start_time": 140,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She licks her lips and looks down, while pausing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lips"
+        },
+        {
+          "tag": "Dramatic Pause",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "28d8be46-95e1-45ad-bb4f-0a34a120c0f7"
+    },
+    {
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Either spiritually, or intellectually. She is shaking her hand while saying that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gestures Mirror Words",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "2f41f899-96c7-418c-a37d-206ef664245c"
+    }
+  ],
   "set": "Default",
   "event_id": "37d27813-ba52-4bf8-8920-04eba2f1845b",
   "source_id": "85f74504-a050-4821-b87e-aa741ba85459"
