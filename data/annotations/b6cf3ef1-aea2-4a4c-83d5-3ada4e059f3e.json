@@ -1,5 +1,673 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler explains that you can avoid nervousness by finding \"something to hold onto.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Emotional Self-Regulation",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "62775044-6eaa-4e64-a8b3-545d311eb098"
+    },
+    {
+      "start_time": 22,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler gestures toward a student on the stage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Dialogue with Students",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "2803c14d-24c9-465a-bdc4-01a9849b9c6a"
+    },
+    {
+      "start_time": 40,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler talks about going to the text to see that the nervousness is not in the text and comes from the self"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Themes",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "c8e5b6c4-2e3a-4f64-90b5-6a343d324557"
+    },
+    {
+      "start_time": 45,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler does what appears to be an impression of a nervous actor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "25aa0db1-c034-48c1-a8fd-02378d4a840d"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler tells the student to start scene with dialogue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Dialogue with Students",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "23f03977-a014-496d-9d1d-19eabbca6395"
+    },
+    {
+      "start_time": 133,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler asks student who they are talking to, pointing out that not knowing your scene partner can cause nervousness"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Emotional Self-Regulation",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "0f585f2a-7fc0-4c6e-96a2-06cc7f4bf0fe"
+    },
+    {
+      "start_time": 150,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler acts out the internal strife of someone who does not know where their scene partner is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "91ee0d0a-aeb3-423e-945e-6672b12a0698"
+    },
+    {
+      "start_time": 150,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler gestures emphatically and demonstratively"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesticulating",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Gestures Mirror Words",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "67356a95-2cae-4eba-be2f-8d2fd5e0718c"
+    },
+    {
+      "start_time": 180,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Where am I? Is that you?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "7dfeffdc-6404-4a3e-bc7a-035de1e1d7e0"
+    },
+    {
+      "start_time": 185,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students laugh at a joke Adler makes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughing"
+        }
+      ],
+      "uuid": "e113a059-f818-4a72-9175-771b01953a49"
+    },
+    {
+      "start_time": 205,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The student on stage recites dialogue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Acting",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "27513209-8a48-4386-a8d3-7bb29ba9e6fb"
+    },
+    {
+      "start_time": 215,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler tells student to communicate to audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Giving Direction",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "d8e751ec-5b3a-407f-a7d2-5e72ce36c338"
+    },
+    {
+      "start_time": 225,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler interrupts very angrily, calling the student’s delivery \"terrible\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Giving Direction",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "79f7a21e-1f05-45ca-bb64-1b4ba359d2c8"
+    },
+    {
+      "start_time": 225,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler talks about the mindset of a king, painting a biographical picture for the students"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Themes",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Theory and Analysis"
+        }
+      ],
+      "uuid": "e23a458a-fd4b-4a38-843e-4eb1af10fa3a"
+    },
+    {
+      "start_time": 267,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video transitions to another scene"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recording",
+          "category": "Film and Media"
+        },
+        {
+          "tag": "Transition",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "93bcab53-8b62-4dd1-9379-c3742d1ca003"
+    },
+    {
+      "start_time": 275,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler tells students to start scene"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Acting",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "df35400b-79b4-4f58-998f-11df1fbfa937"
+    },
+    {
+      "start_time": 275,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two of the students act out the beginning of a scene where one is pretending to walk at the edge of a building"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Giving Direction",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "765dc995-c6e3-4b51-8d94-3cee73b20aa8"
+    },
+    {
+      "start_time": 294,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler tells student to stop \"making believe\" they are walking and to actually walk"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Giving Direction",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "429cec67-5842-4fd1-80c0-191819b16380"
+    },
+    {
+      "start_time": 315,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The female student tries to explain herself, Adler responds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Dialogue with Students",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "e0411010-2510-4d2f-9dab-f27cd49b1ad7"
+    },
+    {
+      "start_time": 344,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler acts out walking on the edge of something, demonstrating to student how it is done"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-Out"
+        }
+      ],
+      "uuid": "e29b4bb8-f0b5-4426-afb7-13c68050f317"
+    },
+    {
+      "start_time": 360,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler makes a general point about truth in acting, saying the actor’s instinct is to lie"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Themes",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Closed Fist",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        }
+      ],
+      "uuid": "45000f40-5221-4eee-a218-c1126c9c2c42"
+    },
+    {
+      "start_time": 365,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler gestures emphatically while asking the student rhetorical questions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue with Students",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "a59ce182-84a4-44cb-b55e-1d5ef6529731"
+    },
+    {
+      "start_time": 365,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler has an extended, impassioned dialogue with student about truth in acting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "The Truth",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "2873d294-0a57-4863-abd0-fd69a144385e"
+    },
+    {
+      "start_time": 415,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler acts out someone who wants to be watched: \"Watch me!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "331adcf7-a8e4-43b7-8074-c0651540692a"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler says all actors are cursed because the default message of performance is \"watch me!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Acting Life",
+          "category": "Theater and Drama"
+        }
+      ],
+      "uuid": "0b80592c-223f-4e7f-b03c-8f55f965889c"
+    },
+    {
+      "start_time": 445,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler once again acts out walking on an edge"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "f344acdb-4bf5-4b93-8ed9-af1efc25c176"
+    },
+    {
+      "start_time": 478,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adler makes an inaudible joke and the class laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughing"
+        }
+      ],
+      "uuid": "45e3e35e-e8d9-493a-a99a-e99d7126ba1a"
+    }
+  ],
   "set": "Default",
   "event_id": "7bbe9f11-bb18-41e5-9c47-aa1f772f5696",
   "source_id": "1594a493-805b-46e3-9d5c-a530b9341846"
