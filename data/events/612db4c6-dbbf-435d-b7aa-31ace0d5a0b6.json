@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "903cf3c8-9510-4329-b39d-69f1e83df25f": {
+      "label": "Selections from Scene Studies ADS0155",
+      "is_offline": false,
+      "file_url": "https://ia600306.us.archive.org/19/items/ads-0155/ADS0155.mp4",
+      "duration": 184
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Selections from Scene Studies II",
+  "created_at": "2024-10-24T19:43:03.452Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-10-24T19:43:03.452Z",
+  "updated_by": "tanyaclement"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "1594a493-805b-46e3-9d5c-a530b9341846": {
+      "label": "Selection from Scene Studies ADS0093",
+      "is_offline": false,
+      "file_url": "https://ia800305.us.archive.org/22/items/ads-0093/ADS0093.mp4",
+      "duration": 490
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Selection from Scene Studies I",
+  "created_at": "2024-10-24T19:43:03.452Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-10-24T19:43:03.452Z",
+  "updated_by": "tanyaclement"
+}
