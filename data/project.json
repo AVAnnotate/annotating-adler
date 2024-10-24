@@ -1,1 +1,396 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","title":"Annotating Adler: Identity and Embodiment in the Stella Adler Collection","description":"This project–created by Zoe Bursztajn-Illingworth, Dahee Lee, Bella Siu, and Joshua Sklar, and edited by Tanya Clement at the University of Texas at Austin–contextualizes recently digitized video from the Stella Adler and Harold Clurman Collection at the Harry Ransom Center. The eleven digitized videos, provided to the public by The Ransom Center, show Adler teaching at the Stella Adler Studio of Acting between 1969 and 1980 as well as being interviewed by Bob Crane. These digitized videos are a small portion of over a thousand audiovisual items in the collection. We hope that these annotations and essays put in context these digitized audiovisual materials and serve as an entry point into research in the Stella Adler collection. The project was conceived by Zoe Bursztajn-Illingworth as part of the Initiative for Digital Humanities for students participating in Professor Tanya Clement’s Digital Humanities and Social Justice Archives class. We would like to thank Steve Wilson, Lauren Walker, and Eric Colleary at the Ransom Center and for their support of this project.","language":"en","slug":"annotating-adler","creator":"tanyaclement","authors":"Zoe Bursztajn-Illingworth, Dahee Lee, Bella Siu, and Joshua Sklar, and edited by Tanya Clement","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Acting and Performance Techniques","color":"#ADFFD9"},{"category":"Audience and Environment","color":"#ADFEFF"},{"category":"Body Language and Gestures","color":"#99E6FF"},{"category":"Cultural and National Context","color":"#88C9F2"},{"category":"Film and Media","color":"#99AFF2"},{"category":"Teaching and Classroom Interaction","color":"#B3B3E6"},{"category":"Theater and Drama","color":"#C195DB"},{"category":"Theory and Analysis","color":"#DA9ECF"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Act-out","category":"Acting and Performance Techniques"},{"tag":"Acting","category":"Acting and Performance Techniques"},{"tag":"Characterization","category":"Acting and Performance Techniques"},{"tag":"Dramatic Pause","category":"Acting and Performance Techniques"},{"tag":"Emotional Self-Regulation","category":"Acting and Performance Techniques"},{"tag":"Giving Direction","category":"Acting and Performance Techniques"},{"tag":"Hyperbole","category":"Acting and Performance Techniques"},{"tag":"Script Analysis","category":"Acting and Performance Techniques"},{"tag":"Sip","category":"Acting and Performance Techniques"},{"tag":"Size","category":"Acting and Performance Techniques"},{"tag":"The Truth","category":"Acting and Performance Techniques"},{"tag":"The Method","category":"Acting and Performance Techniques"},{"tag":"The Norm","category":"Acting and Performance Techniques"},{"tag":"Transition","category":"Acting and Performance Techniques"},{"tag":"Voice","category":"Acting and Performance Techniques"},{"tag":"Audience Interaction","category":"Audience and Environment"},{"tag":"Audience Reaction","category":"Audience and Environment"},{"tag":"Emotions","category":"Audience and Environment"},{"tag":"Environment","category":"Audience and Environment"},{"tag":"Family","category":"Audience and Environment"},{"tag":"Body Language","category":"Body Language and Gestures"},{"tag":"Claw Hand","category":"Body Language and Gestures"},{"tag":"Clenched Fist","category":"Body Language and Gestures"},{"tag":"Closed Fist","category":"Body Language and Gestures"},{"tag":"Come Hither Motion","category":"Body Language and Gestures"},{"tag":"Fiddling with Spectacles","category":"Body Language and Gestures"},{"tag":"Gesticulating","category":"Body Language and Gestures"},{"tag":"Gestures in Rhythm","category":"Body Language and Gestures"},{"tag":"Gestures Mirror Words","category":"Body Language and Gestures"},{"tag":"Hugging Self","category":"Body Language and Gestures"},{"tag":"Pointing","category":"Body Language and Gestures"},{"tag":"America","category":"Cultural and National Context"},{"tag":"Democracy","category":"Cultural and National Context"},{"tag":"Identity","category":"Cultural and National Context"},{"tag":"Important Figures","category":"Cultural and National Context"},{"tag":"Masculinity","category":"Cultural and National Context"},{"tag":"National Identity","category":"Cultural and National Context"},{"tag":"Film Industry","category":"Film and Media"},{"tag":"Interviewer","category":"Film and Media"},{"tag":"Recording","category":"Film and Media"},{"tag":"Dialogue with Students","category":"Teaching and Classroom Interaction"},{"tag":"Class","category":"Teaching and Classroom Interaction"},{"tag":"Discussing Personal Experience","category":"Teaching and Classroom Interaction"},{"tag":"Question for Class","category":"Teaching and Classroom Interaction"},{"tag":"Student Interaction","category":"Teaching and Classroom Interaction"},{"tag":"Students","category":"Teaching and Classroom Interaction"},{"tag":"Teaching","category":"Teaching and Classroom Interaction"},{"tag":"Teaching Voice","category":"Teaching and Classroom Interaction"},{"tag":"Anton Chekov","category":"Theater and Drama"},{"tag":"Comedy Francais","category":"Theater and Drama"},{"tag":"Costume","category":"Theater and Drama"},{"tag":"Henrik Ibsen","category":"Theater and Drama"},{"tag":"Laurence Olivier","category":"Theater and Drama"},{"tag":"Karl Malden","category":"Theater and Drama"},{"tag":"Moscow Arts","category":"Theater and Drama"},{"tag":"Konstantin Stanislavski","category":"Theater and Drama"},{"tag":"August Strindberg","category":"Theater and Drama"},{"tag":"Swedish Theater","category":"Theater and Drama"},{"tag":"The Acting Life","category":"Theater and Drama"},{"tag":"Capitalism","category":"Theory and Analysis"},{"tag":"Character Analysis","category":"Theory and Analysis"},{"tag":"Cold War","category":"Theory and Analysis"},{"tag":"Communism","category":"Theory and Analysis"},{"tag":"Historical Context","category":"Theory and Analysis"},{"tag":"Human Nature","category":"Theory and Analysis"},{"tag":"Military","category":"Theory and Analysis"},{"tag":"Realism","category":"Theory and Analysis"},{"tag":"Religion","category":"Theory and Analysis"},{"tag":"Research","category":"Theory and Analysis"},{"tag":"Rhetorical Device","category":"Theory and Analysis"},{"tag":"Themes","category":"Theory and Analysis"},{"tag":"Theory and Technique","category":"Theory and Analysis"},{"category":"_uncategorized_","tag":"Physicality"},{"category":"_uncategorized_","tag":"George Bernard Shaw"},{"category":"_uncategorized_","tag":"Clarifying Question"},{"category":"_uncategorized_","tag":"Head Shake"},{"category":"_uncategorized_","tag":"Gaze"},{"category":"_uncategorized_","tag":"Gesture in Rhythm"},{"category":"_uncategorized_","tag":"Circular Gesture"},{"category":"_uncategorized_","tag":"Swaying"},{"category":"_uncategorized_","tag":"Lips"},{"category":"_uncategorized_","tag":"Survival"},{"category":"_uncategorized_","tag":"Gender"}]},"created_at":"2024-10-24T19:40:47.669Z","updated_at":"2024-10-24T19:48:04.994Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "title": "Annotating Adler: Identity and Embodiment in the Stella Adler Collection",
+    "description": "This project–created by Zoe Bursztajn-Illingworth, Dahee Lee, Bella Siu, and Joshua Sklar, and edited by Tanya Clement at the University of Texas at Austin–contextualizes recently digitized video from the Stella Adler and Harold Clurman Collection at the Harry Ransom Center. The eleven digitized videos, provided to the public by The Ransom Center, show Adler teaching at the Stella Adler Studio of Acting between 1969 and 1980 as well as being interviewed by Bob Crane. These digitized videos are a small portion of over a thousand audiovisual items in the collection. We hope that these annotations and essays put in context these digitized audiovisual materials and serve as an entry point into research in the Stella Adler collection. The project was conceived by Zoe Bursztajn-Illingworth as part of the Initiative for Digital Humanities for students participating in Professor Tanya Clement’s Digital Humanities and Social Justice Archives class. We would like to thank Steve Wilson, Lauren Walker, and Eric Colleary at the Ransom Center and for their support of this project.",
+    "language": "en",
+    "slug": "annotating-adler",
+    "creator": "tanyaclement",
+    "authors": "Zoe Bursztajn-Illingworth, Dahee Lee, Bella Siu, and Joshua Sklar, and edited by Tanya Clement",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Acting and Performance Techniques",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Audience and Environment",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Body Language and Gestures",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Cultural and National Context",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Film and Media",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Teaching and Classroom Interaction",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Theater and Drama",
+          "color": "#C195DB"
+        },
+        {
+          "category": "Theory and Analysis",
+          "color": "#DA9ECF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Act-out",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Acting",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Characterization",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Dramatic Pause",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Emotional Self-Regulation",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Giving Direction",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Hyperbole",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Sip",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Size",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "The Truth",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "The Norm",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Transition",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Voice",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "Audience Interaction",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "Audience Reaction",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "Emotions",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "Environment",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "Family",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "Body Language",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Claw Hand",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Clenched Fist",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Closed Fist",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Come Hither Motion",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Fiddling with Spectacles",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Gesticulating",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Gestures in Rhythm",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Gestures Mirror Words",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Hugging Self",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "Pointing",
+          "category": "Body Language and Gestures"
+        },
+        {
+          "tag": "America",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Democracy",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Identity",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Important Figures",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Masculinity",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "National Identity",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Film Industry",
+          "category": "Film and Media"
+        },
+        {
+          "tag": "Interviewer",
+          "category": "Film and Media"
+        },
+        {
+          "tag": "Recording",
+          "category": "Film and Media"
+        },
+        {
+          "tag": "Dialogue with Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Discussing Personal Experience",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Question for Class",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Student Interaction",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Students",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Teaching Voice",
+          "category": "Teaching and Classroom Interaction"
+        },
+        {
+          "tag": "Anton Chekov",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Comedy Francais",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Costume",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Henrik Ibsen",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Laurence Olivier",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Karl Malden",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Moscow Arts",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Konstantin Stanislavski",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "August Strindberg",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Swedish Theater",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "The Acting Life",
+          "category": "Theater and Drama"
+        },
+        {
+          "tag": "Capitalism",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Character Analysis",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Cold War",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Human Nature",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Military",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Realism",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Religion",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Research",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Rhetorical Device",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Themes",
+          "category": "Theory and Analysis"
+        },
+        {
+          "tag": "Theory and Technique",
+          "category": "Theory and Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "George Bernard Shaw"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clarifying Question"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Head Shake"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gaze"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Circular Gesture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swaying"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lips"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Survival"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        }
+      ]
+    },
+    "created_at": "2024-10-24T19:40:47.669Z",
+    "updated_at": "2024-10-24T19:48:05.931Z"
+  }
+}
