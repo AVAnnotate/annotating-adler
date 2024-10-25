@@ -1,5 +1,610 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miss Julie breaks through as she makes a clawed, breaking gesture with her hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "92fe7942-1f58-42fd-9a6c-9a5ce33db49d"
+    },
+    {
+      "start_time": 20,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keeps making circular motions from the body to the outside over and over again as she talks about the \"inside.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "00dbfdae-1908-4af6-bdcf-3c76da4b37ce"
+    },
+    {
+      "start_time": 42,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't want the church to influence them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Religion",
+          "category": "Theory and Analysis"
+        }
+      ],
+      "uuid": "a748db3f-7d85-4a67-b481-8f91979798d7"
+    },
+    {
+      "start_time": 44,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause, lick lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dramatic Pause",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "f0880941-b982-4161-a24d-d350597d8079"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want something bigger than that and she jerks her head forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "bb0dc54a-88a2-4e44-bde5-ac2592e4cd20"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repeats the motion as above."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "4a0a6981-1b8c-47df-b6e8-73803a05ebb3"
+    },
+    {
+      "start_time": 57,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just because he is bored and she shakes her head violently and then throws her hand out in front of her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "8d91a865-9197-41db-bbad-dc989bea526d"
+    },
+    {
+      "start_time": 65,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The things that you would consider normal was considered vulgar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "6369bf3c-d9fd-4094-b9e8-e2befa5b8822"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Circular hand motions once more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "cce3033d-3911-4009-ad5e-2a9e024b42d4"
+    },
+    {
+      "start_time": 89,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See that she changes her position to look at the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "64301fa3-c26b-4a08-9b70-a76f31a802b4"
+    },
+    {
+      "start_time": 100,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't want to be the muse in the theater, I want to be interested."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Identity",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "9a71d1ac-8f45-4952-88e1-3a79d52607cc"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of me, and then she tilts her head down and raises her hand up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Identity",
+          "category": "Cultural and National Context"
+        },
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "052d8ae5-12fd-46be-b305-8e553a772c30"
+    },
+    {
+      "start_time": 141,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Looks up at the audience after she says something funny."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Interaction",
+          "category": "Audience and Environment"
+        },
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "f67deec1-d8ba-42ba-8e92-9d0013f90928"
+    },
+    {
+      "start_time": 148,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause, lick lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "406be66a-11f0-444c-9213-ae227c825949"
+    },
+    {
+      "start_time": 190,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talks about sex and it's fundamental purpose and how we see it separate from childbearing but it isn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Class",
+          "category": "Teaching and Classroom Interaction"
+        }
+      ],
+      "uuid": "47a56187-a5ac-4b69-8050-04f255ea5be2"
+    },
+    {
+      "start_time": 205,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She loves me, I love her, repeats and she contorts her body and sways side to side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        },
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "c0bb1b5a-2ae6-4e02-8049-3a194cf4a309"
+    },
+    {
+      "start_time": 210,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No darling, we don't need to have anything between us as she shakes her head no, her Body Language and movement is aligned with what she is saying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "35402ea6-8dbf-442f-b336-a7c6b3cdce46"
+    },
+    {
+      "start_time": 215,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are mine and mine alone and she is touching her heart and then reaching out and then switching hands while repeating the motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "42a678bf-faf4-4ec8-902e-3e5ccd1a3c35"
+    },
+    {
+      "start_time": 227,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are there to and points at the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "b1d61a61-a82c-4925-a726-12f6b73c529d"
+    },
+    {
+      "start_time": 230,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's your whole business as she waves her hands around the air."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "a03f1ae6-c113-4c97-bf7c-c6f676a26049"
+    },
+    {
+      "start_time": 237,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don't need you, shakes head, and then tilts head down to look at the audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "9e040fb5-2b95-4ea3-b228-6f35a3055897"
+    },
+    {
+      "start_time": 259,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whole and then looks around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Script Analysis",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "26276285-e770-4a97-b70c-f4066a9b0ed3"
+    },
+    {
+      "start_time": 266,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Waves of hands and up and down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "04c0fc21-f042-4636-9404-18fbd682510e"
+    },
+    {
+      "start_time": 270,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Places hand here and then there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "73499ddc-478b-4185-b456-ccdb982ed603"
+    },
+    {
+      "start_time": 285,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hand on top of her head and rubs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "ac32c5ec-78f7-4fab-9d36-b17637e2d32e"
+    },
+    {
+      "start_time": 292,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dramatic pause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dramatic Pause",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "5af019da-0e13-4de0-b653-2277299aca36"
+    },
+    {
+      "start_time": 314,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The little lick thing that she does."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "b2cc17c3-8e71-4031-9849-cd4380cfdb21"
+    },
+    {
+      "start_time": 358,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arms crossed over peering down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Method",
+          "category": "Acting and Performance Techniques"
+        }
+      ],
+      "uuid": "4032cd8c-6876-4887-8691-65184a7c0de2"
+    }
+  ],
   "set": "Default",
   "event_id": "7ed2a3df-bd48-47a6-9657-598ebd13e22d",
   "source_id": "73720673-7086-45d5-83ac-4f32df800c86"
