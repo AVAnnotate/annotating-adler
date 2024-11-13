@@ -1,0 +1,106 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zoe Bursztajn-Illingworth",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zoe Bursztajn-Illingworth is currently a Postdoctoral Fellow in Digital Humanities at the University of Texas at Austin. Her research examines the intersection of cinema, literature, and new media. Her current book project, Shooting Script: Poetry, Film, and Form, investigates these media through comparative case studies of voice, elegy, temporality, and boundary in contemporary films and poems respectively. Her writing can be found in Next Generation Adaptation: Spectatorship and Process, Literature/Film Quarterly, and ASAP/J. In fall 2024, she will begin as an Assistant Professor of Film and Media Studies in the Department of English at Texas State University."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dahee Lee",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dahee Lee is a student at the University of Texas pursuing a bachelor’s degree in English. She is currently the chair of communications of Longhorn Legal Coalition, the project manager for the Desiree Venable team, and the recipient of the 2024 Texas Pre-Law LSAT scholarship."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bella Siu",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bella is a native Austinite currently studying Radio-Television-Film at the University of Texas at Austin. An avid cinephile, her favorite genres include body horror and 90s queer films. In her free time you will probably find her at a local drag show or seeing a film at Austin Film Society or an Alamo Drafthouse."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Joshua Sklar",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Joshua Sklar is a recent graduate of The University of Texas at Austin’s Information Science program. His primary interest is librarianship, particularly cataloging and collection management. He is currently a collection development and cataloging specialist at the non-profit video store We Luv Video."
+        }
+      ]
+    }
+  ],
+  "title": "Contributor Bios",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "contributor-bios",
+  "created_at": "2024-11-13T23:04:56.727Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2024-11-13T23:04:56.727Z",
+  "updated_by": "Alyssaf-j"
+}
