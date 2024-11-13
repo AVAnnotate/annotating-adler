@@ -4,15 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "table-of-contents",
-      "children": [
-        {
-          "text": ""
+          "text": "Annotating Adler: Identity and Embodiment in the Stella Adler Collection",
+          "bold": true
         }
       ]
     },
@@ -20,7 +13,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Principal Investigator and Editor: Zoe Bursztajn-Illingworth"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Research Coordinator: Joshua Sklar"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Research Associates: Dahee Lee and Bella Siu"
         }
       ]
     },
@@ -34,14 +43,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "image",
               "url": "https://github.com/annotatingadler/adler-project/raw/gh-pages/Adler%20Cover%20Image.png",
@@ -69,7 +70,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "this is stella"
+                  "text": "This project–created by Zoe Bursztajn-Illingworth, Dahee Lee, Bella Siu, and Joshua Sklar at the University of Texas at Austin–contextualizes recently digitized video from the Stella Adler and Harold Clurman Collection at the Harry Ransom Center. The eleven digitized videos, provided to the public by The Ransom Center, show Adler teaching at the Stella Adler Studio of Acting between 1969 and 1980 as well as being interviewed by Bob Crane. These digitized videos are a small portion of over a thousand audiovisual items in the collection. We hope that these annotations and essays put in context these digitized audiovisual materials and serve as an entry point into research in the Stella Adler collection. The project was conceived by Zoe Bursztajn-Illingworth as part of the Initiative for Digital Humanities for students participating in Professor Tanya Clement’s Digital Humanities and Social Justice Archives. We would like to thank Tanya, Steve Wilson and Lauren Walker at the Ransom Center and Eric Colleary for their support of this project."
                 }
               ]
             }
@@ -89,8 +90,8 @@
   "created_at": "2024-10-24T19:40:47.709Z",
   "created_by": "tanyaclement",
   "title": "Annotating Adler: Identity and Embodiment in the Stella Adler Collection",
-  "updated_at": "2024-11-04T21:15:48.729Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2024-11-13T22:57:16.746Z",
+  "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,
     "type": "home"
