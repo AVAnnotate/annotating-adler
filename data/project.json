@@ -131,10 +131,6 @@
           "category": "Audience and Environment"
         },
         {
-          "tag": "Emotions",
-          "category": "Audience and Environment"
-        },
-        {
           "tag": "Environment",
           "category": "Audience and Environment"
         },
@@ -473,7 +469,7 @@
       ]
     },
     "created_at": "2024-10-24T19:40:47.669Z",
-    "updated_at": "2025-01-08T13:22:04.857Z",
+    "updated_at": "2025-02-18T20:36:10.762Z",
     "is_private": false,
     "generate_pages_site": true
   },
